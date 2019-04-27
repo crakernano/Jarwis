@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/lib/ESP8266/ESP8266.lib)(options "")(descr ""))
+  (lib (name oled_display)(type Legacy)(uri ${KIPRJMOD}/lib/oled/oled_display.lib)(options "")(descr ""))
+  (lib (name BH1750FVI-TR)(type Legacy)(uri ${KIPRJMOD}/lib/BH1750/BH1750FVI-TR.lib)(options "")(descr ""))
+  (lib (name dht12)(type Legacy)(uri ${KIPRJMOD}/lib/DHT12/dht12.lib)(options "")(descr ""))
+  (lib (name MAX17048G_T10)(type Legacy)(uri ${KIPRJMOD}/lib/MAX17048/MAX17048G_T10.lib)(options "")(descr ""))
+  (lib (name MCP73831T-4ADI_OT)(type Legacy)(uri ${KIPRJMOD}/lib/MCP73831/MCP73831T-4ADI_OT.lib)(options "")(descr ""))
+)
