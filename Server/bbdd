@@ -1,0 +1,20 @@
++--------------+---------+------+-----+---------+----------------+
+| Field        | Type    | Null | Key | Default | Extra          |
++--------------+---------+------+-----+---------+----------------+
+| id           | int(11) | NO   | PRI | NULL    | auto_increment |
+| id_modulo    | int(11) | NO   |     | NULL    |                |
+| fecha        | date    | NO   |     | NULL    |                |
+| hora         | time    | NO   |     | NULL    |                |
+| temperatura  | int(11) | YES  |     | NULL    |                |
+| humedad      | int(11) | YES  |     | NULL    |                |
+| luz          | int(11) | YES  |     | NULL    |                |
+| particulas   | int(11) | YES  |     | NULL    |                |
+| CO2          | int(11) | YES  |     | NULL    |                |
+| CO           | int(11) | YES  |     | NULL    |                |
+| UV           | int(11) | YES  |     | NULL    |                |
+| lluvia       | int(11) | YES  |     | NULL    |                |
+| viento       | int(11) | YES  |     | NULL    |                |
+| consumo      | int(11) | YES  |     | NULL    |                |
+| presion      | int(11) | YES  |     | NULL    |                |
+| num_personas | int(11) | YES  |     | NULL    |                |
++--------------+---------+------+-----+---------+----------------+
