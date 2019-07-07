@@ -1,0 +1,9 @@
+[INFO   ] Logger: Record log in /home/jarwis/.kivy/logs/kivy_18-09-25_0.txt
+[[1;33mWARNING[0m] [Config      ] Upgrading configuration in progress.
+[[1;33mWARNING[0m] [Config      ] Older configuration version detected (0 instead of 20)
+[INFO   ] Kivy: v1.11.0.dev0, git-42c0a90, 20180925
+[INFO   ] Python: v2.7.13 (default, Nov 24 2017, 17:33:09) 
+[GCC 6.3.0 20170516]
+[INFO   ] Factory: 195 symbols loaded
+[INFO   ] Image: Providers: img_tex, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+[INFO   ] Window: Provider: egl_rpi
