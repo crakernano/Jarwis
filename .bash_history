@@ -316,3 +316,31 @@ python localSensors.py...
 python core.py dfasfsa
 lskkk
 python jarwisBot.py 
+ls
+cd core/
+cat token.jws 
+nano token.jws 
+ls
+python jarwisBot.py 
+ls
+cd ..
+ls
+ls -a
+cd core/
+ls -a
+cat .git/info/exclude
+cat temporizadores.py
+nano .gitignore
+git add .
+cd ..
+nano .gitignore
+git add .
+ls
+pwd
+git add .
+git commit -a
+git config --global user.email "crakernano@gmail.com"
+git config --global user.name "crakernano"
+git commit -a
+cat
+ls
